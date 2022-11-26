@@ -1,3 +1,4 @@
 # git-second-project
 újra végigmegyek a folyamaton
-meg lesz a hiba
+,meg lesz a hiba.
+Azt hiszem meg is van.
